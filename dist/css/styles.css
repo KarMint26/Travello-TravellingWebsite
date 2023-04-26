@@ -635,6 +635,10 @@ video {
   margin-top: 0px;
 }
 
+.mt-24 {
+  margin-top: 6rem;
+}
+
 .inline-block {
   display: inline-block;
 }
