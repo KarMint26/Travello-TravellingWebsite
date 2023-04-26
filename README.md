@@ -1,10 +1,10 @@
 # WEBSITE TRAVELLO
 
 <div id="header" align="center">
-    <img src="https://giphy.com/clips/dance-music-funny-VlE8J31Z0qtujD7aK5" alt="gif">
+    <img src="https://media.giphy.com/media/3oz8xLYF0gagozmsgM/giphy.gif" alt="gif">
 </div>
 
-<div align="center">:fire Hi I'am Front End Developer Enthusiast :fire</div>
+<div align="center">Hi I'am Front End Developer Enthusiast 👋</div>
 
 <br>
 
@@ -22,7 +22,13 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
 </div>
 
-<h1 align="center">Slicing Design From Figma<h1>
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="100" height="100"/>&nbsp;
+<br>
+<br>
 
-https://www.figma.com/file/bJvI9hFyffSdl9EvyIdOlK/Travello--Traveling-Website-Landing-Page-(Community)?node-id=302-1901&t=4CneNHEk1a4vtXXO-0
+<h1 align="center">Slicing Design From Figma<h1>
+<div align="center">
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="100" height="100"/>&nbsp;
+</div>
+
+<div align="center">https://www.figma.com/file/bJvI9hFyffSdl9EvyIdOlK/Travello--Traveling-Website-Landing-Page-(Community)?node-id=302-1901&t=4CneNHEk1a4vtXXO-0
+</div>
