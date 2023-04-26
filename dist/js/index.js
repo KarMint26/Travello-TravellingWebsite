@@ -6,12 +6,12 @@ const linkNav = document.querySelectorAll(".link-nav-list");
 let count = 0;
 menu?.addEventListener("click", () => {
     if (count === 0) {
-        menu.setAttribute("src", "../assets/icon/close.png");
+        menu.setAttribute("src", "assets/icon/close.png");
         navComponent?.classList.toggle("active");
         count++;
     }
     else {
-        menu.setAttribute("src", "../assets/icon/menu.png");
+        menu.setAttribute("src", "assets/icon/menu.png");
         navComponent?.classList.remove("active");
         count = 0;
     }
@@ -19,7 +19,7 @@ menu?.addEventListener("click", () => {
         li.addEventListener("click", () => {
             if (count === 1) {
                 navComponent?.classList.remove("active");
-                menu.setAttribute("src", "../assets/icon/menu.png");
+                menu.setAttribute("src", "assets/icon/menu.png");
                 count = 0;
             }
         });
