@@ -1,7 +1,7 @@
 # WEBSITE TRAVELLO
 
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/3oz8xLYF0gagozmsgM/giphy.gif" >
+    <img src="https://media.giphy.com/media/3oz8xLYF0gagozmsgM/giphy.gif" width="400" height="400">
 </div>
 
 <div align="center">Hi I'am Front End Developer Enthusiast 👋</div>
@@ -20,6 +20,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
 </div>
 
 <br>
