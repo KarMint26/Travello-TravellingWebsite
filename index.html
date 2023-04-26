@@ -27,7 +27,7 @@
       rel="stylesheet"
     />
   </head>
-  <body class="relative overflow-x-hidden px-8 md:px-12 lg:px-24">
+  <body class="relative w-screen overflow-x-hidden px-8 md:px-12 lg:px-24">
     <!-- Button Back to Top -->
 
     <button
@@ -47,7 +47,7 @@
 
     <header id="header" class="pt-6">
       <nav
-        class="navbar fixed left-0 top-0 z-[9999] flex w-[100%] justify-between bg-primaryColor px-5 py-[.75rem] md:relative md:bg-transparent md:px-0 md:py-0 lg:relative lg:bg-transparent lg:px-0 lg:py-0"
+        class="navbar fixed left-0 top-0 z-[9999] flex w-screen justify-between bg-primaryColor px-5 py-[.75rem] md:relative md:w-screen md:bg-transparent md:px-0 md:py-0 md:pr-8 lg:relative lg:w-auto lg:bg-transparent lg:px-0 lg:py-0 lg:pr-0"
       >
         <div class="title-nav flex">
           <img
@@ -70,7 +70,7 @@
           />
         </div>
         <div
-          class="component-nav absolute left-96 top-[3rem] flex w-full flex-col items-center justify-between bg-primaryColor py-2 opacity-0 transition-all duration-500 md:relative md:left-0 md:top-0 md:w-auto md:flex-row md:gap-[4rem] md:bg-transparent md:py-0 md:opacity-[1] lg:gap-[11.5rem]"
+          class="component-nav absolute left-[36rem] top-[3rem] flex w-full flex-col items-center justify-between bg-primaryColor py-2 opacity-0 transition-all duration-500 md:relative md:left-0 md:top-0 md:w-auto md:flex-row md:gap-[4rem] md:bg-transparent md:py-0 md:opacity-[1] lg:gap-[11.5rem]"
         >
           <div
             class="link-nav flex flex-col items-center gap-2 font-NotoSans md:flex-row md:gap-5 lg:gap-14"
@@ -124,7 +124,7 @@
       id="hero"
       class="mt-24 flex flex-col-reverse gap-16 md:mt-0 md:flex-row md:gap-20 lg:gap-40"
     >
-      <div class="left-hero mt-2 md:mt-20 lg:mt-24">
+      <div class="left-hero mt-0 pl-3 md:mt-20 md:pl-0 lg:mt-24">
         <div class="leftop-bg">
           <img
             src="assets/hero/Ellipse 8.svg"
@@ -135,30 +135,30 @@
         <div class="hero-explains">
           <div class="tagline">
             <h2
-              class="font-Poppins text-[.8rem] font-bold text-primaryColor md:text-[1rem] lg:text-[1.2rem]"
+              class="font-Poppins text-[.9rem] font-bold text-primaryColor md:text-[1rem] lg:text-[1.2rem]"
             >
               BEST DESTINATIONS AROUND THE WORLD
             </h2>
           </div>
           <div class="hero-text relative">
             <h1
-              class="my-3 font-Volkhov text-4xl font-bold text-[#181E4B] md:my-3 md:text-[3.5rem] md:leading-[4rem] lg:my-5 lg:text-7xl"
+              class="my-3 font-Volkhov text-5xl font-bold text-[#181E4B] md:my-3 md:text-[3.5rem] md:leading-[4rem] lg:my-5 lg:text-7xl"
             >
               Travel, enjoy and live a new and full life
             </h1>
             <div
-              class="hero-decore absolute -right-[3.8rem] top-[1.9rem] -z-[5] md:-right-[4.75rem] md:top-[3rem] lg:-right-12 lg:top-[3.5rem]"
+              class="hero-decore absolute -right-[2rem] top-[2.3rem] -z-[5] md:-right-[4.75rem] md:top-[3rem] lg:-right-12 lg:top-[3.5rem]"
             >
               <img
                 src="assets/hero/Decore (1).svg"
                 alt="decore-1"
-                class="w-[250px] md:w-[300px] lg:w-[400px]"
+                class="w-[230px] md:w-[300px] lg:w-[400px]"
               />
             </div>
           </div>
           <div class="hero-desc mb-5 md:mb-5 lg:mb-7">
             <p
-              class="pr-[1rem] font-Poppins text-[.6rem] font-medium text-[#5E6282] md:pr-[4rem] md:text-[.73rem] lg:pr-[6.5rem] lg:text-[1rem]"
+              class="pr-[0rem] font-Poppins text-[.78rem] font-medium text-[#5E6282] md:pr-[4rem] md:text-[.73rem] lg:pr-[6.5rem] lg:text-[1rem]"
             >
               Built Wicket longer admire do barton vanity itself do in it.
               Preferred to sportsmen it engrossed listening. Park gate sell they
@@ -197,12 +197,12 @@
         <img
           src="assets/hero/plane.png"
           alt="plane-1"
-          class="relative right-[.1rem] top-0 w-[6rem] md:right-[5.5rem] md:top-11 md:w-[7rem] lg:right-[5rem] lg:w-[10rem]"
+          class="relative -right-[0rem] top-6 w-[8rem] md:right-[5.5rem] md:top-11 md:w-[7rem] lg:right-[5rem] lg:w-[10rem]"
         />
         <img
           src="assets/hero/Traveller 1.png"
           alt="traveler-1"
-          class="traveler relative -top-[3rem] scale-[1.5] md:right-[4rem] md:top-[1rem] md:scale-[1.75] lg:-top-[2rem] lg:right-[5rem] lg:scale-[1.45]"
+          class="traveler relative -left-[1.5rem] -top-[3rem] scale-[1.3] md:-left-[2rem] md:right-[4rem] md:top-[2rem] md:scale-[2] lg:-left-20 lg:-top-[2rem] lg:right-[5rem] lg:scale-[1.45]"
         />
         <img
           src="assets/hero/plane.png"
@@ -210,7 +210,7 @@
           class="relative -z-[5] hidden md:bottom-[17rem] md:left-[11.5rem] md:inline-block md:w-[7rem] lg:bottom-[30rem] lg:left-[19.5rem] lg:w-[10rem]"
         />
         <div
-          class="rightop-bg absolute -right-[2rem] -top-[4.5rem] -z-10 w-[20rem] md:-right-24 md:-top-[4.5rem] md:w-[28rem] lg:w-[38rem]"
+          class="rightop-bg absolute -right-[2rem] -top-[4.5rem] -z-10 w-[23rem] md:-right-[6.5rem] md:-top-[4.5rem] md:w-[28rem] lg:w-[38rem]"
         >
           <img src="assets/hero/Decore.svg" alt="decore-2" />
         </div>
