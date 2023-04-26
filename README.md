@@ -1,7 +1,7 @@
 # WEBSITE TRAVELLO
 
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/3oz8xLYF0gagozmsgM/giphy.gif" alt="gif">
+    <img src="https://media.giphy.com/media/3oz8xLYF0gagozmsgM/giphy.gif" >
 </div>
 
 <div align="center">Hi I'am Front End Developer Enthusiast 👋</div>
